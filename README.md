@@ -11,7 +11,7 @@ Python tutorial including basic data types and operators, containers, control-fl
 - Discriptive statistics (e.g. moment statistics, variance mean ration, data distribution, scatterplot). Dataframe data processing (pandas).  
 
 - Spatial data exploration: 
-  -Spatial data visualisation (geopandas). 
-  -Spatial pattern analysis: Quadrant analysis and Moran's I (global and local), kernel functions. 
+  - Spatial data visualisation (geopandas). 
+  - Spatial pattern analysis: Quadrant analysis and Moran's I (global and local), kernel functions. 
   
  
