@@ -2,11 +2,11 @@
  
 Tutorials and lab exercises for the spatial data analysis course at UBT in WS 2021. 
  
-1. lab_python: 
+1. **lab_python**: 
 
 Python tutorial including basic data types and operators, containers, control-flow, comprehension, broadcasting, class (object-based modelling, inheritance, super(), magic methods), numpy, matplotlib. 
 
-2. lab_descriptive: 
+2. **lab_descriptive**: 
 
 - Discriptive statistics (e.g. moment statistics, variance mean ration, data distribution, scatterplot). Dataframe data processing (pandas).  
 
