@@ -1,6 +1,6 @@
-# SA_lab_2021
+# SA_lab
  
-Tutorials and lab exercises for the spatial data analysis course at UBT in WS 2021. 
+Tutorials and lab exercises for the "Introduction to statistical modelling for spatial data analysis" course at UBT. 
  
 1. **lab_python**: 
 
